@@ -1,0 +1,1 @@
+//컴파일 명령어 gcc ./src/main.cpp -o ./bin/main -lstdc++ ; ./bin/main
