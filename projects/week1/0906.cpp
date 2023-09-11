@@ -18,5 +18,4 @@ int main() {
   std::cout <<"The character you entered is: " << c_value << std::endl;
 
   return 0;
-
 }
