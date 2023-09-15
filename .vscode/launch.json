@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/cpp/projects/week1",
-      "program": "/root/cpp/projects/week1/build/Debug/outDebug",
+      "cwd": "/root/cpp/projects",
+      "program": "/root/cpp/projects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
