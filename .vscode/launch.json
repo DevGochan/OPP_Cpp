@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/cpp/projects/0502polymorphism/practice",
-      "program": "/root/cpp/projects/0502polymorphism/practice/build/Debug/outDebug",
+      "cwd": "/root/cpp/practice",
+      "program": "/root/cpp/practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
