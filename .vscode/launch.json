@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/cpp/projects/functor",
-      "program": "/root/cpp/projects/functor/build/Debug/outDebug",
+      "cwd": "/root/cpp/projects/fraction_self",
+      "program": "/root/cpp/projects/fraction_self/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
