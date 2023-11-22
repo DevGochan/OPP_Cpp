@@ -17,7 +17,12 @@ std::string deserialize(std::ifstream& ifstr) {
 }
 
 int main() {
-    
-
+    std::string str = "Hello, World!";
+    std::ofstream ofstr("str.bin", std::ios::binary);
+    serialize(str,  ofstr);
+    ofstr.close();
+    std::ifstream ifstr("str.bin", std::ios::binary);
+    std::cout << deserialize(ifstr);
+    ifstr.close();
     return 0;
 }
