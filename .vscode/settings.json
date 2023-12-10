@@ -98,7 +98,10 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp",
-    "cassert": "cpp"
+    "cassert": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "set": "cpp"
   },
   "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
